@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @haneriax. This is my professional account!    
-- 👀 I’m interested in cybersecurity, computer engineering, and any type of programming.
-- 🌱 I’m currently learning Python and C++.
-- 💞️ I’m looking to collaborate on beginner-friendly projects creating functioning programs.
-- 📫 How to reach me: carrier pigeon.
+- 👋 Hi, I’m @nite3thyme, known in the real world as Harley Prince. I'm based in the UK and currently studying an undergraduate degree in cyber security.   
+- 👀 I'm interested in malware analysis and networking.
+- 🌱 I’m an intermediate Python and JavaScript user, looking to gain experience with C/C+ soon
+- 💞️ I’m looking to learn from others and collaborate on creating functional programs.
+- 📫 How to reach me: email hannie.x02@gmail.com or find me on Twitter @nite3thyme.
